@@ -1,6 +1,3 @@
-# psis
-testing git and github functionalities in a project already done
-
 
 The purpose of this assigment was to build a basic chatroom.
 It is build based on a client-server architecture. The client is able to send requests and messages, the server receives then and sends the response or broadcasts the messages to all the other clients (depending on the client message)
